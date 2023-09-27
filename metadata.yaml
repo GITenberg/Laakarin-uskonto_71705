@@ -1,0 +1,27 @@
+_repo: Laakarin-uskonto_71705
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browne, Thomas, Sir
+    birthdate: 1605
+    deathdate: 1682
+    gutenberg_agent_id: '304'
+    url: http://www.gutenberg.org/2009/agents/304
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Browne
+description: ''
+gutenberg_issued: '2023-09-23'
+identifiers:
+  gutenberg: '71705'
+language: fi
+pgterms:marc905: 20180602053101browne
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHÃ¤meenlinna :$bArvi A. Karisto, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Lääkärin uskonto
+url: http://www.gutenberg.org/ebooks/71705
